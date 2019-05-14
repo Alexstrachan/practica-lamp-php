@@ -1,6 +1,6 @@
 # iaw-practica-lamp
 
->IES Celia Viñas (Almería) - Curso 2017/2018  
+>IES Celia Viñas (Almería) - Curso 2018/2019  
 >Módulo: IAW - Implantación de Aplicaciones Web  
 >Ciclo: CFGS Administración de Sistemas Informáticos en Red  
 
