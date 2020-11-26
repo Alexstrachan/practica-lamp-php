@@ -1,8 +1,4 @@
-# iaw-practica-lamp
-
->IES Celia Viñas (Almería) - Curso 2018/2019  
->Módulo: IAW - Implantación de Aplicaciones Web  
->Ciclo: CFGS Administración de Sistemas Informáticos en Red  
+# lamp
 
 Esta práctica consiste en un sistema **muy básico** para añadir, editar, borrar y ver registros de una base de datos, haciendo uso de [PHP][1] y [MySQL][2].
 
